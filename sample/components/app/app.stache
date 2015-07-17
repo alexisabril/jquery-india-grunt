@@ -1,0 +1,16 @@
+<div>
+	<input can-value="{fullname}"/>
+</div>
+
+<table class="table">
+	<tbody>
+		<tr>
+			<td>First:</td>
+			<td>{{first}}</td>
+		</tr>
+		<tr>
+			<td>Last:</td>
+			<td>{{last}}</td>
+		</tr>
+	</tbody>
+</table>

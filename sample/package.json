@@ -1,0 +1,24 @@
+{
+  "name": "jQueryIndia",
+  "version": "0.0.0",
+  "main": "index",
+  "devDependencies": {
+    "bootstrap": "^3.3.5",
+    "can": "^2.3.0-pre.2",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "jquery": "^2.1.4",
+    "steal": "^0.10.5",
+    "steal-qunit": "0.0.4",
+    "testee": "^0.2.0"
+  },
+  "system": {
+    "npmDependencies": [
+      "bootstrap",
+      "can",
+      "jquery",
+      "steal",
+      "steal-qunit"
+    ]
+  }
+}
