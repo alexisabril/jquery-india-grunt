@@ -13,7 +13,7 @@ module.exports = function(grunt) {
 		testee: {
 			options: {
 				reporter: 'Spec',
-				browsers: ['canary']
+				browsers: ['firefox']
 			},
 			all: {
 				src: ['components/app/test.html']
